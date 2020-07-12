@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "name": "Gandalf",
+        "image": "assets/gandalf.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Aragorn",
+        "image": "assets/aragorn.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Legolas",
+        "image": "assets/legolas.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Boromir",
+        "image": "assets/boromir.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Gimli",
+        "image": "assets/gimli.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Frodo",
+        "image": "assets/frodo.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Sam",
+        "image": "assets/sam.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Merry",
+        "image": "assets/merry.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Pippin",
+        "image": "assets/pippin.png"
+    },
+    {
+        "id": 10,
+        "name": "Sauron",
+        "image": "assets/sauron.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Galadriel",
+        "image": "assets/galadriel.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Elrond",
+        "image": "assets/elrond.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Arwen",
+        "image": "assets/arwen.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Eowyn",
+        "image": "assets/eowyn.png"
+    },
+    {
+        "id": 15,
+        "name": "Gollum",
+        "image": "assets/gollum.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Treebeard",
+        "image": "assets/treebeard.png"
+    },
+    {
+        "id": 17,
+        "name": "Saruman",
+        "image": "assets/saruman.jpg"
+    }
+]

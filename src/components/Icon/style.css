@@ -1,0 +1,20 @@
+/* style for our icon component, includes hover styling */
+
+.card {
+    background: white;
+    border-radius: 2px;
+    margin: 1rem;
+    padding: 5px;
+    position: relative;
+    width: 200px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+.card > .img-container {
+    width: 350px;
+}
+
+.card:hover {
+    box-shadow: none;
+    background: black;
+}

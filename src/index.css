@@ -1,3 +1,5 @@
+/* added style for the background */
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,6 +7,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-image: url("./components/Images/onering.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 code {

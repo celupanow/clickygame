@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+/* style to create the grid */
+
+.gridWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 200px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 70%;
+  grid-gap: 25px;
+}
