@@ -34,18 +34,13 @@ This application is a Lord of the Rings themed click game where the user attempt
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-![Lord of the Clicks](./client/public/myapp-immense-everglades.png "Lord of the Clicks")
+![Lord of the Clicks](./public/clickygame.png "Lord of the Clicks")
 
 ### Built With
 * [React](https://reactjs.org/docs/getting-started.html)
-* [MongoDB](https://www.mongodb.com/)
 * [Node.js](https://nodejs.org)
 * [Express](https://expressjs.com/)
-* [Google Books API](https://developers.google.com/books)
 * [react-router-dom](https://reactrouter.com/web/guides/quick-start)
-* [Axios](https://www.npmjs.com/package/axios)
-* [Mongoose](https://www.npmjs.com/package/mongoose)
-* [concurrently](https://www.npmjs.com/package/concurrently)
 
 <!-- GETTING STARTED -->
 
@@ -58,13 +53,6 @@ To get a local copy up and running follow these simple steps.
 You will need to have the lastest version of npm installed.
 ```sh
 npm install npm@latest -g
-```
-
-You will also need MongoDB installed. 
-
-The npm package concurrently will need to be installed globally.
-```sh
-npm install -g concurrently
 ```
   
 ### Installation
@@ -80,15 +68,11 @@ git clone https://github.com/celupanow/myapp.git
 ```sh
 npm install
 ```
-3. Run MongoDB in the command line
-```sh
-mongod
-```
-5. Run the React application in a new terminal
+5. Run the React application 
 ```sh
 npm start
 ```
-6. The browser should automatically open to localhost:3000
+
 
 <!-- ROADMAP -->
 
@@ -213,5 +197,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Njg4MjIyOV19
+eyJoaXN0b3J5IjpbLTg4NTg4MzAwNF19
 -->
