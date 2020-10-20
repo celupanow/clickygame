@@ -8,7 +8,7 @@
 This application is a Lord of the Rings themed click game where the user attempts to click each character only once as the images shuffle.
 <br />
 <br />
-<a href="http://christinalupanow.com/myapp/">View Demo</a>
+<a href="http://celupanow.github.io/myapp/">View Demo</a>
 ·
 <a href="https://github.com/celupanow/myapp/issues">Report Bug</a>
 ·
@@ -68,11 +68,10 @@ git clone https://github.com/celupanow/myapp.git
 ```sh
 npm install
 ```
-5. Run the React application 
+3. Run the React application 
 ```sh
 npm start
 ```
-
 
 <!-- ROADMAP -->
 
@@ -87,12 +86,12 @@ See the [open issues](https://github.com/celupanow/myapp/issues) for a list of p
 ## Contact
 Christina Lupanow - christina@christinalupanow.com
 <p>
-Project Link: [https://immense-everglades-05618.herokuapp.com/](https://immense-everglades-05618.herokuapp.com/)
+Project Link: [http://celupanow.github.io/myapp/](http://celupanow.github.io/myapp/)
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements
-* [Heroku](https://heroku.com)
+* [GitHub Pages](https://pages.github.com/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -197,5 +196,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTg4MzAwNF19
+eyJoaXN0b3J5IjpbMTM0MTg5NjM0OF19
 -->
