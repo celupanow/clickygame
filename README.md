@@ -8,11 +8,11 @@
 This application is a Lord of the Rings themed click game where the user attempts to click each character only once as the images shuffle.
 <br />
 <br />
-<a href="https://immense-everglades-05618.herokuapp.com/">View Demo</a>
+<a href="http://christinalupanow.com/myapp/">View Demo</a>
 ·
-<a href="https://github.com/celupanow/googleBooks/issues">Report Bug</a>
+<a href="https://github.com/celupanow/myapp/issues">Report Bug</a>
 ·
-<a href="https://github.com/celupanow/googleBooks/issues">Request Feature</a>
+<a href="https://github.com/celupanow/myapp/issues">Request Feature</a>
 
 </p>
 
@@ -34,7 +34,7 @@ This application is a Lord of the Rings themed click game where the user attempt
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-![Google Books](./client/public/googlebooks-immense-everglades.png "Google Books")
+![Google Books](./client/public/myapp-immense-everglades.png "Google Books")
 
 ### Built With
 * [React](https://reactjs.org/docs/getting-started.html)
@@ -73,7 +73,7 @@ npm install -g concurrently
 
 ```sh
 
-git clone https://github.com/celupanow/googleBooks.git
+git clone https://github.com/celupanow/myapp.git
 
 ```
 2. Install the NPM packages
@@ -96,7 +96,7 @@ npm start
 
   
 
-See the [open issues](https://github.com/celupanow/googleBooks/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/celupanow/myapp/issues) for a list of proposed features (and known issues).
 
 <!-- CONTACT -->
 
@@ -115,25 +115,25 @@ Project Link: [https://immense-everglades-05618.herokuapp.com/](https://immense-
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/celupanow/googleBooks.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/celupanow/myapp.svg?style=flat-square
 
-[contributors-url]: https://github.com/celupanow/googleBooks/graphs/contributors
+[contributors-url]: https://github.com/celupanow/myapp/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/celupanow/googleBooks.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/celupanow/myapp.svg?style=flat-square
 
-[forks-url]: https://github.com/celupanow/googleBooks/network/members
+[forks-url]: https://github.com/celupanow/myapp/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/celupanow/googleBooks.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/celupanow/myapp.svg?style=flat-square
 
-[stars-url]: https://github.com/celupanow/googleBooks/stargazers
+[stars-url]: https://github.com/celupanow/myapp/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/celupanow/googleBooks.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/celupanow/myapp.svg?style=flat-square
 
-[issues-url]: https://github.com/celupanow/googleBooks/issues
+[issues-url]: https://github.com/celupanow/myapp/issues
 
-[license-shield]: https://img.shields.io/github/license/celupanow/googleBooks.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/celupanow/myapp.svg?style=flat-square
 
-[license-url]: https://github.com/celupanow/googleBooks/blob/master/LICENSE.txt
+[license-url]: https://github.com/celupanow/myapp/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
@@ -213,5 +213,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzMxMDY0OF19
+eyJoaXN0b3J5IjpbMjExNjU5NDkyM119
 -->
