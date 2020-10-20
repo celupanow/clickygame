@@ -34,7 +34,7 @@ This application is a Lord of the Rings themed click game where the user attempt
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-![Google Books](./client/public/myapp-immense-everglades.png "Google Books")
+![Lord of the Clicks](./client/public/myapp-immense-everglades.png "Lord of the Clicks")
 
 ### Built With
 * [React](https://reactjs.org/docs/getting-started.html)
@@ -213,5 +213,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjU5NDkyM119
+eyJoaXN0b3J5IjpbLTg2Njg4MjIyOV19
 -->
