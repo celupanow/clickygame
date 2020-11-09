@@ -120,10 +120,10 @@ Project Link: [http://celupanow.github.io/myapp/](http://celupanow.github.io/mya
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
-[linkedin-url]: https://linkedin.com/in/celupanow
+[linkedin-url]: https://www.linkedin.com/in/christinalupanow
 
 [product-screenshot]: images/screenshot.png
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU0MTkxM119
+eyJoaXN0b3J5IjpbLTE5MzkxNTY4MDksLTE4NTU0MTkxM119
 -->
