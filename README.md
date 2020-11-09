@@ -84,9 +84,10 @@ See the [open issues](https://github.com/celupanow/myapp/issues) for a list of p
 <!-- CONTACT -->
 
 ## Contact
+
 Christina Lupanow - christina@christinalupanow.com
-<p>
-Project Link: [http://celupanow.github.io/myapp/](http://celupanow.github.io/myapp/)
+
+Project Link: [https://github.com/celupanow/myapp](https://github.com/celupanow/myapp)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -125,5 +126,6 @@ Project Link: [http://celupanow.github.io/myapp/](http://celupanow.github.io/mya
 [product-screenshot]: images/screenshot.png
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzkxNTY4MDksLTE4NTU0MTkxM119
+eyJoaXN0b3J5IjpbODU4MjY3NjA3LC0xOTM5MTU2ODA5LC0xOD
+U1NDE5MTNdfQ==
 -->
